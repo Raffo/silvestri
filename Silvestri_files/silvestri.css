@@ -1,0 +1,26 @@
+body{
+	width:800px;
+	margin:15px auto;
+}
+
+#main_page{
+	background-color:#FFFFCC;
+	border-radius: 15px;
+	border-style:solid;
+}
+
+header{
+	text-align:center;
+	font-family: Papyrus, fantasy;
+}
+
+.nota{
+	/*font-family: "Times New Roman", serif;*/
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-align:center;
+	margin: 20px 20px 20px 20px; 
+}
+
+#images{
+	text-align:center;
+}
